@@ -13,7 +13,7 @@ This is a basic Android login UI prototype. It currently has no functionality an
 
 ## Screenshot
 
-![Login UI](./baf4d046-5a9c-4a7d-bc9d-ce23556a65ad.png)
+![Login UI](capture.png)
 
 ## Technologies
 
